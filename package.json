@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "leaflet-velocity-ts": "^1.1.9"
+  }
+}
